@@ -1,2 +1,3 @@
 # PowerBI-Projects
- This is repository will be used to commit examples of training or PowerBI Development I have worked on.
+ This is repository will be used to commit any PowerBI related work.
+ This will allow me to showcase my development.
